@@ -1,0 +1,6 @@
+{
+  "n_queries": 500,
+  "n_initials": 500,
+  "budget": 5000,
+  "weight_reset_type": "new_init"
+}

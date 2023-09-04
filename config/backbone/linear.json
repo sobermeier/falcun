@@ -1,0 +1,16 @@
+{
+  "model_architecture": "linear",
+  "model_params": {
+    "linear_hidden_dims": [1024],
+    "p_drop": null
+  },
+  "train_params": {
+    "lr": 0.0001,
+    "epochs": 200,
+    "wd": 0,
+    "momentum": null,
+    "early_stopping": true,
+    "optimizer":"adam",
+    "lr_scheduler": false
+  }
+}

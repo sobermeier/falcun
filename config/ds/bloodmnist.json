@@ -1,0 +1,13 @@
+{
+  "dims": [28, 28, 3],
+   "type": "rgb_med",
+   "channels": 3,
+   "loader_tr_args": {
+     "batch_size": 128,
+     "num_workers": 0
+   },
+   "loader_te_args": {
+     "batch_size": 1000,
+     "num_workers": 0
+   }
+}

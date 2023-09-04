@@ -1,0 +1,12 @@
+{
+  "default": {
+    "gamma": 10,
+    "deterministic": false,
+    "custom_dist": "distance_unc_norm",
+  },
+  "grid": {
+    "gamma": [1,5,10,20],
+    "deterministic": [false],
+    "custom_dist": ["distance_unc_norm", "distance", "unc"]
+  }
+}

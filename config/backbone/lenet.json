@@ -1,0 +1,14 @@
+{
+  "model_architecture": "LeNet",
+  "model_params": {
+  },
+  "train_params": {
+    "lr": 0.001,
+    "epochs": 20,
+    "wd": 0,
+    "momentum": 0,
+    "early_stopping": false,
+    "optimizer":"adam",
+    "lr_scheduler": false
+  }
+}

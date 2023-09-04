@@ -1,0 +1,11 @@
+mlflow
+numpy
+pandas
+scikit-learn
+scipy
+click
+tqdm
+matplotlib
+seaborn
+openml
+ddu-dirty-mnist

@@ -1,0 +1,17 @@
+{
+  "model_architecture": "resnet",
+  "model_params": {
+    "arch_name": "resnet18",
+    "pretrained": false,
+    "dropout": 0
+  },
+  "train_params": {
+    "lr": 0.001,
+    "epochs": 100,
+    "wd": 0,
+    "momentum": 0,
+    "early_stopping": true,
+    "optimizer": "adam",
+    "lr_scheduler": false
+  }
+}
