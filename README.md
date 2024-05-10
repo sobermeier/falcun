@@ -1,4 +1,4 @@
-# Supplements to our Paper "Time- and Label-Efficient Active Learning by Combining Uncertainty and Diversity in the Prediction Probability Space"
+# Supplements to our Paper "FALCUN: A Simple and Efficient Deep Active Learning Strategy"
 
 This repository is partially built on [Kuan-Hao Huang's DeepAL repository](https://github.com/ej0cl6/deep-active-learning) and [Jordan Ash's BADGE repository](https://github.com/JordanAsh/badge) 
 
