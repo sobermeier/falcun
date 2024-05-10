@@ -1,4 +1,4 @@
-""" IDEAL Sampling Strategies """
+""" FALCUN Sampling Strategies """
 import time
 
 import numpy as np
